@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"cities"
+            ],
+            "cname": "city"
+
+        } ,
+        {
+            "whitelist":[],
+            "cname":"bandar"
+        } 
+     ]
+}

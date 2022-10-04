@@ -1,0 +1,9 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"negeri"
+            ],
+            "cname": "state"
+        }   ]
+}

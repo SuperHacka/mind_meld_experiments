@@ -1,0 +1,10 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"name is",
+            	"nama"
+            ],
+            "cname": "name"
+        }   ]
+}

@@ -1,0 +1,11 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"emel",
+            	"email address",
+                "alamat emel"
+            ],
+            "cname": "email"
+        }   ]
+}

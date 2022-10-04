@@ -1,0 +1,19 @@
+{
+    "entities": 
+    [
+        {
+            "whitelist": [
+            	"sure",
+            	"can",
+                "ok"
+            ],
+            "cname": "choice"  
+        }  ,
+        {
+            "whitelist": [
+            ],
+            "cname": "pilih"
+        }
+    
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"phone number",
+            	"contact number",
+                "contact address",
+                "phone",
+                "number",
+                "contact"
+            ],
+            "cname": "phone"
+        }   ]
+}

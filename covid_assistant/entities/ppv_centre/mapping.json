@@ -1,0 +1,35 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+                "bp specialist centre",
+                "specialist centre",
+                "bp specialist megah",
+                "BP specialist centre"
+            ],
+            "cname": "BP SPECIALIST CENTRE (MEGAH)"
+        },
+        {
+            "whitelist":[
+                "KLINIK LOH",
+                "LOH CLINIC"
+            ],
+            "cname":"KELINIK LOH"
+        },
+        {
+            "whitelist":[
+                "KLINIK FAMILI TTDI",
+                "Famili Klinik TTDI"
+            ],
+            "cname":"KLINIK FAMILI TTDI SDN BHD"
+        },
+        {
+            "whitelist":[
+                "klinik alam medic",
+                "ALAM MEDIC KLINIK"
+            ],
+            "cname":"KLINIK ALAM MEDIC"
+        }
+
+    ]
+}

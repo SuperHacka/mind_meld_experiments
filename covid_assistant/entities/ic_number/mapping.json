@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "whitelist": [
+            	"id",
+            	"identifcation number",
+                "identifcation",
+                "ic",
+                "mykad",
+                "mykad no",
+                "ic num"
+            ],
+            "cname": "ic number"
+        }   ]
+}
